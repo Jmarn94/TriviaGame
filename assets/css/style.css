@@ -1,0 +1,33 @@
+#endgamepic{
+    height: 300px;
+    }
+    body{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    }
+    #maincontainer{
+    background:blue;
+    margin-top: 50px;
+    border: 5px solid grey;
+    opacity: .80;
+    height: 500px;
+    overflow: auto;
+    }
+    #title{
+    padding: 10px;
+    margin-top: 10px
+    }
+    #titlepic{
+    height:150px;
+    width:50%;
+    }
+    .options{
+    padding:10px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    }
+    #previewpic {
+    height: 100px;
+    }
+    
